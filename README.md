@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/amikoelvis/Four-Card-Feature-Section)
+- Live Site URL: [Live site URL](https://four-card-feature-section-xi-umber.vercel.app/)
 
 ## My process
 
@@ -79,7 +79,7 @@ I plan to focus on:
 
 ## Author
 
-- Website - [Amiko Elvis](https://www.your-site.com)
+- Website - [Amiko Elvis](https://four-card-feature-section-xi-umber.vercel.app/)
 - Frontend Mentor - [@amikoelvis](https://www.frontendmentor.io/profile/amikoelvis)
 - Twitter - [@ElvisAmiko](https://www.twitter.com/ElvisAmiko)
 
